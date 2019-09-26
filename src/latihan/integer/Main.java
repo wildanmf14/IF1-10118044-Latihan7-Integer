@@ -1,12 +1,12 @@
 package latihan.integer;
-
+/*
+Nama        : Wildan Muhammad Fikri
+Kelas       : IF1
+NIM         : 10118044
+Deskripsi   : mendeklarasikan variabel integer
+ */
 public class Main {
-	/*
-    Nama        : Wildan Muhammad Fikri
-    Kelas       : IF1
-    NIM         : 10118044
-    Deskripsi   : mendeklarasikan variabel integer
-     */
+	
 	public static void main(String[] args) {
         byte b;
         short s;
